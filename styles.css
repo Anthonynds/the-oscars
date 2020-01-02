@@ -1,0 +1,54 @@
+body {
+  background-image: url("https://i.imgur.com/Ydf73hn.jpg");
+    background-attachment: fixed;
+}
+img {
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+h1 {
+	text-align: center;
+	font-family: 'ZCOOL KuaiLe', cursive;
+}
+.movie {
+	text-decoration: underline;
+	color: lightblue;
+}
+.bruh {
+	font-size: 60px;
+	color: gold;
+}
+.spider {
+	color: darkred;
+	font-family: 'Permanent Marker', cursive;
+}
+.artist {
+	font-size: 45px;
+	color: orange;
+	text-decoration: underline;
+}
+.game {
+	color: green;
+	text-decoration: underline;
+	font-size: 40px;
+}
+.jokerr {
+	color: white;
+	font-family: 'Inconsolata', monospace;
+}
+.joker {
+	color: white;
+	text-decoration: underline;
+}
+.monkey {
+	font-family: 'Yeon Sung', cursive;
+	font-size: 50px;
+	color: darkred;
+}
+.utube {
+    color: cyan;
+    	text-decoration: underline;
+}
